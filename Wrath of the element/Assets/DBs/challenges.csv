@@ -1,0 +1,21 @@
+id,description,type,finished
+1,Survive the wind and meatballs during a game.,common,0
+2,Play 5 games,common,0
+3,Win 3 matches,common,0
+4,Finish a game of 4 players,common,0
+5,Have a tie at the end of a round.,common,0
+6,Survive 25 times the wind,rare,0
+7,Survive 25 times the meatballs,rare,0
+8,Recover the salt 50 times,rare,0
+9,Play 25 games,rare,0
+10,Win 3 matches in a row,rare,0
+11,Win a match without touching the oil,epic,0
+12,Dash 250 times,epic,0
+13,Play 100 games,epic,0
+14,Win a game without ever touching the fire,epic,0
+15,Dash a player 150 times,epic,0
+16,Win a game without ever touching the oil,legendary,0
+17,Dash 350 another player,legendary,0
+18,Win a perfect game of 200 points,legendary,0
+19,Play 350 games,legendary,0
+20,Win a game without touching any element.,exotic,0

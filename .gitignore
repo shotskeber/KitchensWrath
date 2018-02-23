@@ -1,9 +1,10 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/Assets/AssetStoreTools*
+Wrath of the element/[Ll]ibrary/
+Wrath of the element/[Tt]emp/
+Wrath of the element/[Oo]bj/
+Wrath of the element/[Bb]uild/
+Wrath of the element/[Bb]uilds/
+Wrath of the element/Assets/AssetStoreTools*
+Wrath of the element/BuildTest/
 
 # Visual Studio 2015 cache directory
 /.vs/
@@ -32,3 +33,4 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+

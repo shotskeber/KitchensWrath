@@ -1,0 +1,515 @@
+fileFormatVersion: 2
+guid: 74e93bac47ce77341bfdb361e4fb5d1e
+timeCreated: 1487850220
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: smoketest_0
+    21300002: smoketest_1
+    21300004: smoketest_2
+    21300006: smoketest_3
+    21300008: smoketest_4
+    21300010: smoketest_5
+    21300012: smoketest_6
+    21300014: smoketest_7
+    21300016: smoketest_8
+    21300018: smoketest_9
+    21300020: smoketest_10
+    21300022: smoketest_11
+    21300024: smoketest_12
+    21300026: smoketest_13
+    21300028: smoketest_14
+    21300030: smoketest_15
+    21300032: smoketest_16
+    21300034: smoketest_17
+    21300036: smoketest_18
+    21300038: smoketest_19
+    21300040: smoketest_20
+    21300042: smoketest_21
+    21300044: smoketest_22
+    21300046: smoketest_23
+    21300048: smoketest_24
+    21300050: smoketest_25
+    21300052: smoketest_26
+    21300054: smoketest_27
+    21300056: smoketest_28
+    21300058: smoketest_29
+    21300060: smoketest_30
+    21300062: smoketest_31
+    21300064: smoketest_32
+    21300066: smoketest_33
+    21300068: smoketest_34
+    21300070: smoketest_35
+    21300072: smoketest_36
+    21300074: smoketest_37
+    21300076: smoketest_38
+    21300078: smoketest_39
+    21300080: smoketest_40
+    21300082: smoketest_41
+    21300084: smoketest_42
+    21300086: smoketest_43
+    21300088: smoketest_44
+    21300090: smoketest_45
+    21300092: smoketest_46
+    21300094: smoketest_47
+    21300096: smoketest_48
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smoketest_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7118
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_1
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 7118
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_2
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 7118
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_3
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 7118
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_4
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 7118
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_5
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 7118
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_6
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 7118
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6044
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_8
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 6044
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_9
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 6044
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_10
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 6044
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_11
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 6044
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_12
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 6044
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_13
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 6044
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4970
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_15
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 4970
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_16
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 4970
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_17
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 4970
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_18
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 4970
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_19
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 4970
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_20
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 4970
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3896
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_22
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 3896
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_23
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 3896
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_24
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 3896
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_25
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 3896
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_26
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 3896
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_27
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 3896
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2822
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoketest_29
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2822
+        width: 557
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

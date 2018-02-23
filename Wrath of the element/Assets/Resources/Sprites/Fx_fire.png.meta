@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 71a25844d9aa6a049be5137e8af1ff5f
+timeCreated: 1490603975
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fx_fire_0
+    21300002: Fx_fire_1
+    21300004: Fx_fire_2
+    21300006: Fx_fire_3
+    21300008: Fx_fire_4
+    21300010: Fx_fire_5
+    21300012: Fx_fire_6
+    21300014: Fx_fire_7
+    21300016: Fx_fire_8
+    21300018: Fx_fire_9
+    21300020: Fx_fire_10
+    21300022: Fx_fire_11
+    21300024: Fx_fire_12
+    21300026: Fx_fire_13
+    21300028: Fx_fire_14
+    21300030: Fx_fire_15
+    21300032: Fx_fire_16
+    21300034: Fx_fire_17
+    21300036: Fx_fire_18
+    21300038: Fx_fire_19
+    21300040: Fx_fire_20
+    21300042: Fx_fire_21
+    21300044: Fx_fire_22
+    21300046: Fx_fire_23
+    21300048: Fx_fire_24
+    21300050: Fx_fire_25
+    21300052: Fx_fire_26
+    21300054: Fx_fire_27
+    21300056: Fx_fire_28
+    21300058: Fx_fire_29
+    21300060: Fx_fire_30
+    21300062: Fx_fire_31
+    21300064: Fx_fire_32
+    21300066: Fx_fire_33
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fx_fire_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3651
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 3651
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 3651
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_3
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 3651
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_4
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3651
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3206
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_6
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 3206
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_7
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 3206
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_8
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 3206
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_9
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3206
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2761
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2761
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_12
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2761
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_13
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2761
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2761
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2316
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_16
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2316
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_17
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2316
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_18
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2316
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_19
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2316
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1871
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_21
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1871
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_22
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1871
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_23
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1871
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_24
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1871
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1426
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_26
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1426
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_27
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1426
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_28
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1426
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_29
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1426
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 981
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_31
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 981
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_32
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 981
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fx_fire_33
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 981
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
